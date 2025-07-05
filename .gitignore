@@ -1,0 +1,43 @@
+# MARK: - Xcode
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/xcschemes/*
+!*.xcodeproj/xcshareddata/xcschemes/*.xcscheme
+*.xcworkspace/xcuserdata/
+
+# MARK: - Swift / Build Artifacts
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.hmap
+*.moved-aside
+
+# MARK: - Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+Package.resolved
+
+# MARK: - Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# MARK: - Carthage
+Carthage/Build/
+
+# MARK: - Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# MARK: - Code Injection
+iOSInjectionProject/
+
+# MARK: - Snapshot Testing
+**/__Snapshots__/
