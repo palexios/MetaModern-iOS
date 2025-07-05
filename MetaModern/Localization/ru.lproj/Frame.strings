@@ -1,0 +1,237 @@
+/* 
+  Frame.strings
+  MetaModern
+
+  Created by Александр Павлицкий on 30.06.2025.
+  
+*/
+
+/*
+1. Коучинг
+2. Проект
+3. Коммуникация
+4. Бизнес
+5. Философия
+6. Психология
+7. Творчество
+8. Мастер Бо
+9. Экзистенциализм
+10. Философия жизни Архетипы
+11. Аналитический коучинг
+12. Социум
+13. Дзен и Дао
+14. Индуизм
+15. Классическая греческая философия
+16. Христианство
+ */
+
+
+
+"category11Frame1" = "Алгоритм мышления м. Бо";
+"category11Frame2" = "Анализ";
+"category11Frame3" = "Аналитическая философия";
+"category11Frame4" = "Аналитический процесс";
+"category11Frame5" = "Гештальт подход";
+"category11Frame6" = "Когнитивный анализ";
+"category11Frame7" = "Лингвистический анализ";
+"category11Frame8" = "Перенос";
+"category11Frame9" = "Принципы интеграции";
+"category11Frame10" = "Рационализм";
+"category11Frame11" = "Уровни бессознательного";
+"category11Frame12" = "Эволюция жизни";
+
+"category4Frame1" = "Бизнес";
+"category4Frame2" = "Брендинг";
+"category4Frame3" = "Деятельность";
+"category4Frame4" = "Команда";
+"category4Frame5" = "Лидерство";
+"category4Frame6" = "Маркетинг";
+"category4Frame7" = "Менеджмент";
+"category4Frame8" = "Организация";
+"category4Frame9" = "Профессионал";
+"category4Frame10" = "Профессия";
+"category4Frame11" = "Стиль управления";
+"category4Frame12" = "Элитный продукт";
+
+"category13Frame1" = "Взаимопроникновение";
+"category13Frame2" = "Гаутама Сиддхартха";
+"category13Frame3" = "Категории";
+"category13Frame4" = "Полное посвящение";
+"category13Frame5" = "Праджапарамита";
+"category13Frame6" = "Превращение";
+"category13Frame7" = "Гаутама Сиддхартха";
+"category13Frame8" = "Действия Дзен";
+"category13Frame9" = "Доброта";
+"category13Frame10" = "Новая этика";
+"category13Frame11" = "Посвящение Дзен";
+"category13Frame12" = "Типы передачи";
+
+"category14Frame1" = "Аспекты разума";
+"category14Frame2" = "Зороастризм Авеста";
+"category14Frame3" = "Индуизм";
+"category14Frame4" = "Искренность";
+"category14Frame5" = "Касты";
+"category14Frame6" = "Огонь Аша";
+"category14Frame7" = "Пады йога";
+"category14Frame8" = "Положения";
+"category14Frame9" = "Путь мастера Аша";
+"category14Frame10" = "Санатана - Дхарма";
+"category14Frame11" = "Состояния";
+"category14Frame12" = "Суфии";
+
+"category15Frame1" = "Арифметика";
+"category15Frame2" = "Архе";
+"category15Frame3" = "Бытие";
+"category15Frame4" = "Категории";
+"category15Frame5" = "Квадрат искусства";
+"category15Frame6" = "Маевтика";
+"category15Frame7" = "Метриопатия";
+"category15Frame8" = "Оратория";
+"category15Frame9" = "Причина";
+"category15Frame10" = "Справедливость";
+"category15Frame11" = "Тетрафармакон";
+"category15Frame12" = "Уподобление Единому";
+
+"category3Frame1" = "Актуализация конфликта";
+"category3Frame2" = "Зоны коммуникации / Окно Джохари";
+"category3Frame3" = "Коммуникация";
+"category3Frame4" = "Объекты конфликта";
+"category3Frame5" = "Психические функции";
+"category3Frame6" = "Содержание коммуникации";
+"category3Frame7" = "Стадии конфликта";
+"category3Frame8" = "Форма конфликта";
+"category3Frame9" = "Формы коммуникации";
+"category3Frame10" = "Цикл конфликта";
+"category3Frame11" = "Эмоции конфликта";
+"category3Frame12" = "Этапы коммуникации";
+
+"category1Frame1" = "Влияние";
+"category1Frame2" = "Духовный коучинг";
+"category1Frame3" = "Запрос коучинга";
+"category1Frame4" = "Клиенты";
+"category1Frame5" = "Коуч-форма";
+"category1Frame6" = "Обратная связь";
+"category1Frame7" = "Результаты коучинга";
+"category1Frame8" = "Человек";
+"category1Frame9" = "Что";
+"category1Frame10" = "Эволюция личности";
+"category1Frame11" = "Этапы развития";
+"category1Frame12" = "AQAL";
+"category1Frame13" = "GROW";
+"category1Frame14" = "True";
+
+"category8Frame1" = "Акт бытия";
+"category8Frame2" = "Вера";
+"category8Frame3" = "Воля";
+"category8Frame4" = "Мир";
+"category8Frame5" = "Мотивация";
+"category8Frame6" = "НейроГештальт";
+"category8Frame7" = "Позитивный опыт";
+"category8Frame8" = "Принципы развития";
+"category8Frame9" = "Реализация";
+"category8Frame10" = "Сознание";
+"category8Frame11" = "Эффекты / Rescue";
+
+"category2Frame1" = "Бизнес-анализ";
+"category2Frame2" = "ИКИГАЙ";
+"category2Frame3" = "Личный проект";
+"category2Frame4" = "Объекты проекта";
+"category2Frame5" = "Пропорции проекта";
+"category2Frame6" = "Процесс";
+"category2Frame7" = "Результат";
+"category2Frame8" = "Самоактуализация";
+"category2Frame9" = "Стадии проекта";
+"category2Frame10" = "Управление вниманием";
+"category2Frame11" = "Этапы проекта";
+"category2Frame12" = "T.O.T.E.";
+
+"category6Frame1" = "Биодинамика";
+"category6Frame2" = "Перинатальные матрицы";
+"category6Frame3" = "Психея";
+"category6Frame4" = "Психические функции";
+"category6Frame5" = "Психоанализ";
+"category6Frame6" = "Психологические школы";
+"category6Frame7" = "Сопротивления";
+"category6Frame8" = "Стадии развития";
+"category6Frame9" = "Транзактный анализ";
+"category6Frame10" = "Формы сознания";
+"category6Frame11" = "Ценностные ориентации";
+"category6Frame12" = "Цикл реакции";
+
+"category12Frame1" = "Ассертивный тренинг";
+"category12Frame2" = "Культура";
+"category12Frame3" = "Образ человека";
+"category12Frame4" = "Общество";
+"category12Frame5" = "Перенос";
+"category12Frame6" = "Социализация";
+"category12Frame7" = "Социальное развитие";
+"category12Frame8" = "Социология";
+"category12Frame9" = "Уровни влияния";
+"category12Frame10" = "Цикл Штрауса - Хоув";
+"category12Frame11" = "VUCA: Проблематика";
+"category12Frame12" = "VUCA: Решение";
+
+"category7Frame1" = "Вечные сценарии";
+"category7Frame2" = "Архитектура реальности";
+"category7Frame3" = "Видение";
+"category7Frame4" = "Воображение";
+"category7Frame5" = "Изобретение";
+"category7Frame6" = "Конструктивизм";
+"category7Frame7" = "Креативность";
+"category7Frame8" = "Круг обучения";
+"category7Frame9" = "Литература";
+"category7Frame10" = "Творческие процессы";
+"category7Frame11" = "Художественное произведение";
+"category7Frame12" = "Эксперимент";
+
+"category5Frame1" = "Антиномии мира";
+"category5Frame2" = "Антропология";
+"category5Frame3" = "Герменевтика";
+"category5Frame4" = "Онтология";
+"category5Frame5" = "Парадигмы";
+"category5Frame6" = "Повороты философии";
+"category5Frame7" = "Превращение";
+"category5Frame8" = "Признаки духовности";
+"category5Frame9" = "Сущности";
+"category5Frame10" = "Теория воли";
+"category5Frame11" = "Феноменология";
+"category5Frame12" = "Философия духа";
+
+"category10Frame1" = "Архетип Анима";
+"category10Frame2" = "Стадии развития человека";
+"category10Frame3" = "Арт-роли";
+"category10Frame4" = "Архетип Анимус";
+"category10Frame5" = "Ловушки пути";
+"category10Frame6" = "Ошо";
+"category10Frame7" = "Прибежище";
+"category10Frame8" = "Психологический возраст";
+"category10Frame9" = "Путь героя";
+"category10Frame10" = "Роли управления";
+"category10Frame11" = "Социальные архетипы";
+"category10Frame12" = "Четвертый путь";
+
+"category16Frame1" = "Ангелы предстояния";
+"category16Frame2" = "Духовные причины в познании";
+"category16Frame3" = "Священные писания Евангелии";
+"category16Frame4" = "Стадии жизни Иисуса Христа";
+"category16Frame5" = "Ступени любви к богу";
+"category16Frame6" = "Верное письмо";
+"category16Frame7" = "Мысленно творимая молитва";
+"category16Frame8" = "Принципы Творения";
+"category16Frame9" = "Стадии сущности познания";
+"category16Frame10" = "Структура воли";
+"category16Frame11" = "Толкования и изъяснения";
+"category16Frame12" = "Целевые причины в искусстве";
+
+"category9Frame1" = "Движение духа";
+"category9Frame2" = "Духовная культура";
+"category9Frame3" = "Народный дух";
+"category9Frame4" = "Неопределенность: антикризис";
+"category9Frame5" = "Неопределенность: кризис";
+"category9Frame6" = "Практика духа";
+"category9Frame7" = "Цикл превращения";
+"category9Frame8" = "Экзистенциализм";
+"category9Frame9" = "Экзистенциалы";
+"category9Frame10" = "Экзистенциальный анализ";
+"category9Frame11" = "Экзистенция";
+"category9Frame12" = "Явления духа";

@@ -1,0 +1,1175 @@
+/* 
+  Card.strings
+  MetaModern
+
+  Created by Александр Павлицкий on 30.06.2025.
+  
+*/
+
+// 3
+// Взаимопроникновение
+"category13Frame1Card1" = "Шраваки / Последователи Хинаяны";
+"category13Frame1Card2" = "Пратьекабудды / Будды для себя";
+"category13Frame1Card3" = "Будды и бодхисатвы";
+"category13Frame1Card4" = "Амидабхи / Земля блаженства";
+
+// Гаутама Сиддхартха
+"category13Frame2Card1" = "Страдание";
+"category13Frame2Card2" = "Болезни";
+"category13Frame2Card3" = "Старение";
+"category13Frame2Card4" = "Смерть";
+
+// Категории
+"category13Frame3Card1" = "Ли / Принципы";
+"category13Frame3Card2" = "Ци / Субстанция";
+"category13Frame3Card3" = "Дао Ти / Тело Дао";
+"category13Frame3Card4" = "Да цюань, тай чи / Великий предел";
+
+// Полное посвящение
+"category13Frame4Card1" = "Ваза";
+"category13Frame4Card2" = "Тайна";
+"category13Frame4Card3" = "Знание";
+"category13Frame4Card4" = "Слово";
+
+// Праджапарамита
+"category13Frame5Card1" = "Идея";
+"category13Frame5Card2" = "Материя";
+"category13Frame5Card3" = "И то и другое";
+"category13Frame5Card4" = "Ни то ни другое";
+
+// Превращение
+"category13Frame6Card1" = "Бу дун / Великий предел";
+"category13Frame6Card2" = "Шень / Дух";
+"category13Frame6Card3" = "Пиньинь / Символы";
+"category13Frame6Card4" = "Ци / Орудия";
+
+// Гаутама Сиддхартха
+"category13Frame7Card1" = "Равностность / Упекка";
+"category13Frame7Card2" = "Радость / Мудитта";
+"category13Frame7Card3" = "Сострадание / Карона";
+"category13Frame7Card4" = "Любящая доброта / Метта";
+
+// Действия Дзен
+"category13Frame8Card1" = "Бао / Воздаяние";
+"category13Frame8Card2" = "Карма / Следование";
+"category13Frame8Card3" = "Садху / Отречение";
+"category13Frame8Card4" = "Дао / Равновесие";
+
+// Доброта
+"category13Frame9Card1" = "Гуманность";
+"category13Frame9Card2" = "Справедливость";
+"category13Frame9Card3" = "Благопристойность";
+"category13Frame9Card4" = "Разумность";
+
+// Новая этика
+"category13Frame10Card1" = "Сущность сердца / Отсутствие добра и зла";
+"category13Frame10Card2" = "Движение помыслов / Наличие добра и зла";
+"category13Frame10Card3" = "Благомыслие / Знание добра и зла";
+"category13Frame10Card4" = "Выверение вещей / Совершение добра и устранение зла";
+
+// Посвящение Дзен
+"category13Frame11Card1" = "Прямая передача";
+"category13Frame11Card2" = "Личный опыт";
+"category13Frame11Card3" = "Дух ученика";
+"category13Frame11Card4" = "Природа Будды";
+
+// Типы передачи
+"category13Frame12Card1" = "Посвящение";
+"category13Frame12Card2" = "Слово";
+"category13Frame12Card3" = "Смысл";
+"category13Frame12Card4" = "Душа";
+
+//2
+// Бизнес
+"category4Frame1Card1" = "Идея";
+"category4Frame1Card2" = "Команда";
+"category4Frame1Card3" = "Производство";
+"category4Frame1Card4" = "Капитализация";
+
+// Брендинг
+"category4Frame2Card1" = "Функция";
+"category4Frame2Card2" = "Ментальность";
+"category4Frame2Card3" = "Социальность";
+"category4Frame2Card4" = "Духовность";
+
+// Деятельность
+"category4Frame3Card1" = "Работа";
+"category4Frame3Card2" = "Труд";
+"category4Frame3Card3" = "Творчество";
+"category4Frame3Card4" = "Игра";
+
+// Команда
+"category4Frame4Card1" = "Формирование";
+"category4Frame4Card2" = "Согласование";
+"category4Frame4Card3" = "Становление";
+"category4Frame4Card4" = "Эффективность";
+
+// Лидерство
+"category4Frame5Card1" = "Виденье";
+"category4Frame5Card2" = "Структурирование";
+"category4Frame5Card3" = "Личный пример";
+"category4Frame5Card4" = "Вовлеченность";
+
+// Маркетинг
+"category4Frame6Card1" = "Продукт";
+"category4Frame6Card2" = "Сообщество";
+"category4Frame6Card3" = "Медиа";
+"category4Frame6Card4" = "Бренд";
+
+// Менеджмент
+"category4Frame7Card1" = "Планирование";
+"category4Frame7Card2" = "Организация";
+"category4Frame7Card3" = "Мотивация";
+"category4Frame7Card4" = "Контроль";
+
+// Организация
+"category4Frame8Card1" = "Производство";
+"category4Frame8Card2" = "Администрация";
+"category4Frame8Card3" = "Предпринимательство";
+"category4Frame8Card4" = "Интеграция";
+
+// Профессионал
+"category4Frame9Card1" = "Специалист";
+"category4Frame9Card2" = "Директор";
+"category4Frame9Card3" = "Лидер";
+"category4Frame9Card4" = "Акционер";
+
+// Профессия
+"category4Frame10Card1" = "Мастерская";
+"category4Frame10Card2" = "Цех";
+"category4Frame10Card3" = "Гильдия";
+"category4Frame10Card4" = "Сообщество";
+
+// Стиль управления
+"category4Frame11Card1" = "Авторитаризм";
+"category4Frame11Card2" = "Поощрение";
+"category4Frame11Card3" = "Делегирование";
+"category4Frame11Card4" = "Доверие";
+
+// Элитный продукт
+"category4Frame12Card1" = "Ценные материалы";
+"category4Frame12Card2" = "Сложность конструкции";
+"category4Frame12Card3" = "Уникальный дизайн";
+"category4Frame12Card4" = "Коэффициент иррационального";
+
+//1
+// Алгоритм мышления м. Бо
+"category11Frame1Card1" = "Дескрипция";
+"category11Frame1Card2" = "Амплификация";
+"category11Frame1Card3" = "Дедукция";
+"category11Frame1Card4" = "Герменевтика";
+
+// Анализ
+"category11Frame2Card1" = "Психология";
+"category11Frame2Card2" = "Психоанализ";
+"category11Frame2Card3" = "Философия";
+"category11Frame2Card4" = "Медитация";
+
+// Аналитическая философия
+"category11Frame3Card1" = "Ясность";
+"category11Frame3Card2" = "Проблематизация";
+"category11Frame3Card3" = "Аргументация";
+"category11Frame3Card4" = "Проект решения";
+
+// Аналитический процесс
+"category11Frame4Card1" = "Смещение";
+"category11Frame4Card2" = "Сгущение";
+"category11Frame4Card3" = "Образ";
+"category11Frame4Card4" = "Обработка";
+
+// Гештальт подход
+"category11Frame5Card1" = "Романтизм";
+"category11Frame5Card2" = "Экспериентализм";
+"category11Frame5Card3" = "Прагматизм";
+"category11Frame5Card4" = "Мистицизм";
+
+// Когнитивный анализ
+"category11Frame6Card1" = "План";
+"category11Frame6Card2" = "Фрейм";
+"category11Frame6Card3" = "Схема";
+"category11Frame6Card4" = "Скрипт";
+
+// Лингвистический анализ
+"category11Frame7Card1" = "Тема";
+"category11Frame7Card2" = "Форма";
+"category11Frame7Card3" = "Тип";
+"category11Frame7Card4" = "Текст";
+
+// Перенос
+"category11Frame8Card1" = "Прошлое";
+"category11Frame8Card2" = "Нравы";
+"category11Frame8Card3" = "Искусство";
+"category11Frame8Card4" = "Религия";
+
+// Принципы интеграции
+"category11Frame9Card1" = "Тотальное присутствие";
+"category11Frame9Card2" = "Высшее послание";
+"category11Frame9Card3" = "Интерпретация";
+"category11Frame9Card4" = "Диалог";
+
+// Рационализм
+"category11Frame10Card1" = "Сомнение";
+"category11Frame10Card2" = "Дробь";
+"category11Frame10Card3" = "Структура";
+"category11Frame10Card4" = "Каталог";
+
+// Уровни бессознательного
+"category11Frame11Card1" = "Сенсорный";
+"category11Frame11Card2" = "Индивидуальный";
+"category11Frame11Card3" = "Рождение и смерть";
+"category11Frame11Card4" = "Трансперсональный";
+
+// Эволюция жизни
+"category11Frame12Card1" = "Борьба за выживание";
+"category11Frame12Card2" = "Естественный отбор";
+"category11Frame12Card3" = "Половой отбор";
+"category11Frame12Card4" = "Наследственность";
+
+//4
+// Аспекты разума
+"category14Frame1Card1" = "Манос / Память в клетках тела";
+"category14Frame1Card2" = "Аханкара / Идентичность";
+"category14Frame1Card3" = "Буддхи / Интеллект";
+"category14Frame1Card4" = "Читта / Чистый разум";
+
+// Зороастризм Авеста
+"category14Frame2Card1" = "Духовное творение";
+"category14Frame2Card2" = "Творение материального мира";
+"category14Frame2Card3" = "Борьба двух начал";
+"category14Frame2Card4" = "Зороастр";
+
+// Индуизм
+"category14Frame3Card1" = "Вишнуизм";
+"category14Frame3Card2" = "Шиваизм";
+"category14Frame3Card3" = "Смартизм";
+"category14Frame3Card4" = "Шактизм";
+
+// Искренность
+"category14Frame4Card1" = "Он Един";
+"category14Frame4Card2" = "Он Один";
+"category14Frame4Card3" = "Он не рождён";
+"category14Frame4Card4" = "Он не рождает";
+
+// Касты
+"category14Frame5Card1" = "Шудры / Слуги";
+"category14Frame5Card2" = "Вайшьи / Торговцы, крестьяне";
+"category14Frame5Card3" = "Кшатрии / Воины, правители";
+"category14Frame5Card4" = "Брахманы / Жрецы, ученые";
+
+// Огонь Аша
+"category14Frame6Card1" = "Молния / Небесный огонь";
+"category14Frame6Card2" = "Солнце / Следовать обстоятельствам";
+"category14Frame6Card3" = "Жизненный огонь / В телах существ";
+"category14Frame6Card4" = "Пламя / Алтарь или очаг";
+
+// Пады йога
+"category14Frame7Card1" = "Самадхи / О сердечности";
+"category14Frame7Card2" = "Садхана / О способах осуществления";
+"category14Frame7Card3" = "Вибхути / О совершенных способностях";
+"category14Frame7Card4" = "Кайвалья / Об абсолютном освобождении";
+
+// Положения
+"category14Frame8Card1" = "Дхарма";
+"category14Frame8Card2" = "Карма";
+"category14Frame8Card3" = "Сансара";
+"category14Frame8Card4" = "Майя";
+
+// Путь мастера Аша
+"category14Frame9Card1" = "Трехлепестковый путь / Мысли, слова, дела";
+"category14Frame9Card2" = "Благотворительность / Распространение счастья";
+"category14Frame9Card3" = "Духовное равенство\nи обязанность полов";
+"category14Frame9Card4" = "Быть ради добра";
+
+// Санатана - Дхарма
+"category14Frame10Card1" = "Брахма";
+"category14Frame10Card2" = "Шива";
+"category14Frame10Card3" = "Вишну";
+"category14Frame10Card4" = "Кришна";
+
+// Состояния
+"category14Frame11Card1" = "Тамас";
+"category14Frame11Card2" = "Саттва";
+"category14Frame11Card3" = "Раджас";
+"category14Frame11Card4" = "Ниргуна";
+
+// Суфии
+"category14Frame12Card1" = "Шариат / Закон";
+"category14Frame12Card2" = "Тарикат / Путь";
+"category14Frame12Card3" = "Хакикат / Познание";
+"category14Frame12Card4" = "Марифат / Образование";
+
+//5
+// Арифметика
+"category15Frame1Card1" = "Единичность";
+"category15Frame1Card2" = "Уход в даль";
+"category15Frame1Card3" = "Оформление единицы";
+"category15Frame1Card4" = "Телесная триада";
+
+// Архе
+"category15Frame2Card1" = "Зевс";
+"category15Frame2Card2" = "Аид";
+"category15Frame2Card3" = "Гера";
+"category15Frame2Card4" = "Нестис";
+
+// Бытие
+"category15Frame3Card1" = "Помимо Бытия нет ничего";
+"category15Frame3Card2" = "Бытие никем не порождено";
+"category15Frame3Card3" = "Бытие не подвержено гибели";
+"category15Frame3Card4" = "У Бытия нет времени";
+
+// Категории
+"category15Frame4Card1" = "Субстанции";
+"category15Frame4Card2" = "Качества";
+"category15Frame4Card3" = "Количества";
+"category15Frame4Card4" = "Места";
+
+// Квадрат искусства
+"category15Frame5Card1" = "Арифметика";
+"category15Frame5Card2" = "Геометрия";
+"category15Frame5Card3" = "Астрономия";
+"category15Frame5Card4" = "Музыка";
+
+// Маевтика
+"category15Frame6Card1" = "Согласие";
+"category15Frame6Card2" = "Сомнение";
+"category15Frame6Card3" = "Аргументация";
+"category15Frame6Card4" = "Вывод";
+
+// Метриопатия
+"category15Frame7Card1" = "Следовать природе";
+"category15Frame7Card2" = "Следовать аффектам";
+"category15Frame7Card3" = "Уважать законы";
+"category15Frame7Card4" = "Упражняться в умениях";
+
+// Оратория
+"category15Frame8Card1" = "Функция";
+"category15Frame8Card2" = "Цель";
+"category15Frame8Card3" = "Содержание";
+"category15Frame8Card4" = "Классификация";
+
+// Причина
+"category15Frame9Card1" = "Материя";
+"category15Frame9Card2" = "Форма";
+"category15Frame9Card3" = "Действие";
+"category15Frame9Card4" = "Финал";
+
+// Справедливость
+"category15Frame10Card1" = "Покорность слуг";
+"category15Frame10Card2" = "Самообладание горожан";
+"category15Frame10Card3" = "Храбрость воинов";
+"category15Frame10Card4" = "Мудрость правителей";
+
+// Тетрафармакон
+"category15Frame11Card1" = "Не стоит бояться богов";
+"category15Frame11Card2" = "Не стоит беспокоиться о смерти";
+"category15Frame11Card3" = "Страдание легко переносимо";
+"category15Frame11Card4" = "Блаженство легко достижимо";
+
+// Уподобление Единому
+"category15Frame12Card1" = "Гражданская добродетель";
+"category15Frame12Card2" = "Опрощение";
+"category15Frame12Card3" = "Созерцание Ума";
+"category15Frame12Card4" = "Уподобление Уму";
+
+//6
+// Актуализация конфликта
+"category3Frame1Card1" = "Тезис";
+"category3Frame1Card2" = "Проблема";
+"category3Frame1Card3" = "Дебаты";
+"category3Frame1Card4" = "Решение";
+
+// Зоны коммуникации / Окно Джохари
+"category3Frame2Card1" = "Слепая";
+"category3Frame2Card2" = "Скрытая";
+"category3Frame2Card3" = "Неизвестная";
+"category3Frame2Card4" = "Открытая";
+
+// Коммуникация
+"category3Frame3Card1" = "Факт";
+"category3Frame3Card2" = "Призыв";
+"category3Frame3Card3" = "Отношение";
+"category3Frame3Card4" = "Самореализация";
+
+// Объекты конфликта
+"category3Frame4Card1" = "Субъекты";
+"category3Frame4Card2" = "Повод";
+"category3Frame4Card3" = "Тактики";
+"category3Frame4Card4" = "Эффекты";
+
+// Психические функции
+"category3Frame5Card1" = "Восприятие";
+"category3Frame5Card2" = "Внимание";
+"category3Frame5Card3" = "Память";
+"category3Frame5Card4" = "Мышление";
+
+// Содержание коммуникации
+"category3Frame6Card1" = "Мотив";
+"category3Frame6Card2" = "Доверие";
+"category3Frame6Card3" = "Содержание";
+"category3Frame6Card4" = "Благодарение";
+
+// Стадии конфликта
+"category3Frame7Card1" = "Поле";
+"category3Frame7Card2" = "Организация";
+"category3Frame7Card3" = "Ведение";
+"category3Frame7Card4" = "Завершение";
+
+// Форма конфликта
+"category3Frame8Card1" = "Протест";
+"category3Frame8Card2" = "Экзальтация";
+"category3Frame8Card3" = "Культуротворчество";
+"category3Frame8Card4" = "Организация";
+
+// Формы коммуникации
+"category3Frame9Card1" = "Эгоизм";
+"category3Frame9Card2" = "Забота";
+"category3Frame9Card3" = "Партнерство";
+"category3Frame9Card4" = "Альтруизм";
+
+// Цикл конфликта
+"category3Frame10Card1" = "Предконфликт";
+"category3Frame10Card2" = "Конфликтование";
+"category3Frame10Card3" = "Конфликт";
+"category3Frame10Card4" = "Постконфликт";
+
+// Эмоции конфликта
+"category3Frame11Card1" = "Возмущение";
+"category3Frame11Card2" = "Принятие";
+"category3Frame11Card3" = "Прощение";
+"category3Frame11Card4" = "Эмпатия";
+
+// Этапы коммуникации
+"category3Frame12Card1" = "Встреча";
+"category3Frame12Card2" = "Обращение";
+"category3Frame12Card3" = "Обратная связь";
+"category3Frame12Card4" = "Эффект";
+
+//7
+// Влияние
+"category1Frame1Card1" = "Ощущение";
+"category1Frame1Card2" = "Анализ";
+"category1Frame1Card3" = "Решение";
+"category1Frame1Card4" = "Применение";
+
+// Духовный коучинг
+"category1Frame2Card1" = "Вызов";
+"category1Frame2Card2" = "Партнёрство";
+"category1Frame2Card3" = "Поддержка";
+"category1Frame2Card4" = "Благодарность";
+
+// Запрос коучинга
+"category1Frame3Card1" = "Расстерянность";
+"category1Frame3Card2" = "Тревожность";
+"category1Frame3Card3" = "Кризис";
+"category1Frame3Card4" = "Страдание";
+
+// Клиенты
+"category1Frame4Card1" = "Посетитель";
+"category1Frame4Card2" = "Жалобщик";
+"category1Frame4Card3" = "Покупатель";
+"category1Frame4Card4" = "Реализатор";
+
+// Коуч-форма
+"category1Frame5Card1" = "Тренинг";
+"category1Frame5Card2" = "Личный рост";
+"category1Frame5Card3" = "Социальное проектирование";
+"category1Frame5Card4" = "Наставничество";
+
+// Обратная связь
+"category1Frame6Card1" = "Образ";
+"category1Frame6Card2" = "Эмоции";
+"category1Frame6Card3" = "Ощущения";
+"category1Frame6Card4" = "Смыслы";
+
+// Результаты коучинга
+"category1Frame7Card1" = "Ясность";
+"category1Frame7Card2" = "Спокойствие";
+"category1Frame7Card3" = "Контроль";
+"category1Frame7Card4" = "Выбор";
+
+// Человек
+"category1Frame8Card1" = "Тело";
+"category1Frame8Card2" = "Чувства";
+"category1Frame8Card3" = "Интеллект";
+"category1Frame8Card4" = "Душа";
+
+// Что
+"category1Frame9Card1" = "Почему";
+"category1Frame9Card2" = "Кто";
+"category1Frame9Card3" = "Как";
+"category1Frame9Card4" = "Зачем";
+
+// Эволюция личности
+"category1Frame10Card1" = "Биогенез";
+"category1Frame10Card2" = "Персоногенез";
+"category1Frame10Card3" = "Социогенез";
+"category1Frame10Card4" = "Космогенез";
+
+// Этапы развития
+"category1Frame11Card1" = "Рождение";
+"category1Frame11Card2" = "Становление";
+"category1Frame11Card3" = "Вызревание";
+"category1Frame11Card4" = "Воплощение";
+
+// AQAL
+"category1Frame12Card1" = "Я";
+"category1Frame12Card2" = "Мы";
+"category1Frame12Card3" = "Они";
+"category1Frame12Card4" = "Оно";
+
+// GROW
+"category1Frame13Card1" = "Goal / Цель";
+"category1Frame13Card2" = "Reality / Ситуация";
+"category1Frame13Card3" = "Options / Варианты";
+"category1Frame13Card4" = "Will / Будущее";
+
+// True
+"category1Frame14Card1" = "Theme / Тема";
+"category1Frame14Card2" = "Resurs / Ресурсы";
+"category1Frame14Card3" = "Unlock / Раскрытие";
+"category1Frame14Card4" = "Equalizing / Настройка";
+
+//8
+// Акт бытия
+"category8Frame1Card1" = "Смысл";
+"category8Frame1Card2" = "Энергия";
+"category8Frame1Card3" = "Творчество";
+"category8Frame1Card4" = "Результат";
+
+// Вера
+"category8Frame2Card1" = "Доверие";
+"category8Frame2Card2" = "Свершение";
+"category8Frame2Card3" = "Уверенность";
+"category8Frame2Card4" = "Совершенство";
+
+// Воля
+"category8Frame3Card1" = "Интерес";
+"category8Frame3Card2" = "Желание";
+"category8Frame3Card3" = "Намерение";
+"category8Frame3Card4" = "Феномен";
+
+// Мир
+"category8Frame4Card1" = "Мироощущение";
+"category8Frame4Card2" = "Мировоззрение";
+"category8Frame4Card3" = "уМиротворение";
+"category8Frame4Card4" = "сМирение";
+
+// Мотивация
+"category8Frame5Card1" = "Могу";
+"category8Frame5Card2" = "Хочу";
+"category8Frame5Card3" = "Обязан";
+"category8Frame5Card4" = "Люблю";
+
+// НейроГештальт
+"category8Frame6Card1" = "Бионика";
+"category8Frame6Card2" = "Графика";
+"category8Frame6Card3" = "Дизайн";
+"category8Frame6Card4" = "Динамика";
+
+// Позитивный опыт
+"category8Frame7Card1" = "Тонус";
+"category8Frame7Card2" = "Удовольствие";
+"category8Frame7Card3" = "Удовлетворение";
+"category8Frame7Card4" = "Экстаз";
+
+// Принципы развития
+"category8Frame8Card1" = "Всё интересно";
+"category8Frame8Card2" = "Всё возможно!";
+"category8Frame8Card3" = "Всё действительно";
+"category8Frame8Card4" = "Всё имеет значение";
+
+// Реализация
+"category8Frame9Card1" = "Зов";
+"category8Frame9Card2" = "Вызов";
+"category8Frame9Card3" = "Звание";
+"category8Frame9Card4" = "Призвание";
+
+// Сознание
+"category8Frame10Card1" = "Обыденное";
+"category8Frame10Card2" = "Трансовое";
+"category8Frame10Card3" = "Расширенное";
+"category8Frame10Card4" = "Нуминозное";
+
+// Эффекты / Rescue
+"category8Frame11Card1" = "Безопасность";
+"category8Frame11Card2" = "Адаптация";
+"category8Frame11Card3" = "Стабильность";
+"category8Frame11Card4" = "Процветание";
+
+//9
+// Бизнес-анализ
+"category2Frame1Card1" = "Комфорт";
+"category2Frame1Card2" = "Проблема";
+"category2Frame1Card3" = "Ресурс";
+"category2Frame1Card4" = "Цель";
+
+// ИКИГАЙ
+"category2Frame2Card1" = "Умею";
+"category2Frame2Card2" = "Востребовано";
+"category2Frame2Card3" = "Платят";
+"category2Frame2Card4" = "Люблю";
+
+// Личный проект
+"category2Frame3Card1" = "Форма";
+"category2Frame3Card2" = "Ценности";
+"category2Frame3Card3" = "Окружение";
+"category2Frame3Card4" = "Предназначение";
+
+// Объекты проекта
+"category2Frame4Card1" = "Причины";
+"category2Frame4Card2" = "Цели";
+"category2Frame4Card3" = "Результаты";
+"category2Frame4Card4" = "Эффекты";
+
+// Пропорции проекта
+"category2Frame5Card1" = "Форма";
+"category2Frame5Card2" = "Вид";
+"category2Frame5Card3" = "Значимость";
+"category2Frame5Card4" = "Популярность";
+
+// Процесс
+"category2Frame6Card1" = "Восприятие";
+"category2Frame6Card2" = "Внимание";
+"category2Frame6Card3" = "Воображение";
+"category2Frame6Card4" = "Фиксация";
+
+// Результат
+"category2Frame7Card1" = "Образ";
+"category2Frame7Card2" = "Личная роль";
+"category2Frame7Card3" = "Детали";
+"category2Frame7Card4" = "Критерии";
+
+// Самоактуализация
+"category2Frame8Card1" = "Познание";
+"category2Frame8Card2" = "Определение";
+"category2Frame8Card3" = "Презентация";
+"category2Frame8Card4" = "Реализация";
+
+// Стадии проекта
+"category2Frame9Card1" = "Проектирование";
+"category2Frame9Card2" = "Внедрение";
+"category2Frame9Card3" = "Производство";
+"category2Frame9Card4" = "Капитализация";
+
+// Управление вниманием
+"category2Frame10Card1" = "Красота";
+"category2Frame10Card2" = "Интерес";
+"category2Frame10Card3" = "Польза";
+"category2Frame10Card4" = "Энергия";
+
+// Этапы проекта
+"category2Frame11Card1" = "Местоположение";
+"category2Frame11Card2" = "Маршрут";
+"category2Frame11Card3" = "Ресурсы";
+"category2Frame11Card4" = "Шаги";
+
+// T.O.T.E.
+"category2Frame12Card1" = "T1 - Тест 1";
+"category2Frame12Card2" = "О - Операции";
+"category2Frame12Card3" = "Т2 - Тест 2";
+"category2Frame12Card4" = "Е - Выход";
+
+//10
+// Биодинамика
+"category6Frame1Card1" = "Конфликт";
+"category6Frame1Card2" = "Мотивация";
+"category6Frame1Card3" = "Интерпретация";
+"category6Frame1Card4" = "Адаптация";
+
+// Перинатальные матрицы
+"category6Frame2Card1" = "Вынашивание";
+"category6Frame2Card2" = "Сепарация";
+"category6Frame2Card3" = "Родовой канал";
+"category6Frame2Card4" = "Адаптация";
+
+// Психея
+"category6Frame3Card1" = "Анализ";
+"category6Frame3Card2" = "Спокойствие";
+"category6Frame3Card3" = "Объективность";
+"category6Frame3Card4" = "Наитие";
+
+// Психические функции
+"category6Frame4Card1" = "Интуиция";
+"category6Frame4Card2" = "Чувства";
+"category6Frame4Card3" = "Ощущения";
+"category6Frame4Card4" = "Мышление";
+
+// Психоанализ
+"category6Frame5Card1" = "Реальное";
+"category6Frame5Card2" = "Символическое";
+"category6Frame5Card3" = "Воображаемое";
+"category6Frame5Card4" = "Космическое";
+
+// Психологические школы
+"category6Frame6Card1" = "Психофизиология";
+"category6Frame6Card2" = "Психодинамика";
+"category6Frame6Card3" = "Гуманизм";
+"category6Frame6Card4" = "Интеграция";
+
+// Сопротивления
+"category6Frame7Card1" = "Конфлюенция";
+"category6Frame7Card2" = "Интроекция";
+"category6Frame7Card3" = "Проекция";
+"category6Frame7Card4" = "Ретрофлексия";
+
+// Стадии развития
+"category6Frame8Card1" = "Оральная";
+"category6Frame8Card2" = "Анальная";
+"category6Frame8Card3" = "Фаллическая";
+"category6Frame8Card4" = "Эдипова";
+
+// Транзактный анализ
+"category6Frame9Card1" = "Я плохой / мир хороший";
+"category6Frame9Card2" = "Я хороший / мир плохой";
+"category6Frame9Card3" = "Я плохой / мир плохой";
+"category6Frame9Card4" = "Я хороший / мир хороший";
+
+// Формы сознания
+"category6Frame10Card1" = "Ощущение";
+"category6Frame10Card2" = "Впечатление";
+"category6Frame10Card3" = "Мышление";
+"category6Frame10Card4" = "Состояние";
+
+// Ценностные ориентации
+"category6Frame11Card1" = "Укорененность";
+"category6Frame11Card2" = "Самоотверженность";
+"category6Frame11Card3" = "Соотнесенность";
+"category6Frame11Card4" = "Трансценденция";
+
+// Цикл реакции
+"category6Frame12Card1" = "Стимул";
+"category6Frame12Card2" = "Символ";
+"category6Frame12Card3" = "Рефлекс";
+"category6Frame12Card4" = "Реакция";
+
+//11
+// Ассертивный тренинг
+"category12Frame1Card1" = "Требование";
+"category12Frame1Card2" = "Отказ";
+"category12Frame1Card3" = "Контакт";
+"category12Frame1Card4" = "Внимание";
+
+// Культура
+"category12Frame2Card1" = "Природа";
+"category12Frame2Card2" = "Личность";
+"category12Frame2Card3" = "Социум";
+"category12Frame2Card4" = "Религия";
+
+// Образ человека
+"category12Frame3Card1" = "Человек-природа";
+"category12Frame3Card2" = "Человек-техника";
+"category12Frame3Card3" = "Человек-знак";
+"category12Frame3Card4" = "Человек-свет";
+
+// Общество
+"category12Frame4Card1" = "Экономика";
+"category12Frame4Card2" = "Социум";
+"category12Frame4Card3" = "Политика";
+"category12Frame4Card4" = "Религия";
+
+// Перенос
+"category12Frame5Card1" = "Прошлое";
+"category12Frame5Card2" = "Нравственность";
+"category12Frame5Card3" = "Искусство";
+"category12Frame5Card4" = "Духовность";
+
+// Социализация
+"category12Frame6Card1" = "Предписание";
+"category12Frame6Card2" = "Ожидание";
+"category12Frame6Card3" = "Изменение";
+"category12Frame6Card4" = "Адаптация";
+
+// Социальное развитие
+"category12Frame7Card1" = "Дикость";
+"category12Frame7Card2" = "Варварство";
+"category12Frame7Card3" = "Культура";
+"category12Frame7Card4" = "Цивилизация";
+
+// Социология
+"category12Frame8Card1" = "История";
+"category12Frame8Card2" = "Харизма";
+"category12Frame8Card3" = "Закон";
+"category12Frame8Card4" = "Ценность";
+
+// Уровни влияния
+"category12Frame9Card1" = "Формальность";
+"category12Frame9Card2" = "Неформальное";
+"category12Frame9Card3" = "Лингвистика";
+"category12Frame9Card4" = "Знание";
+
+// Цикл Штрауса - Хоув
+"category12Frame10Card1" = "Подъем";
+"category12Frame10Card2" = "Пробуждение";
+"category12Frame10Card3" = "Спад";
+"category12Frame10Card4" = "Кризис";
+
+// VUCA: Проблематика
+"category12Frame11Card1" = "Volatility / Изменчивость";
+"category12Frame11Card2" = "Uncertainty / Неопределенность";
+"category12Frame11Card3" = "Complexity / Сложность";
+"category12Frame11Card4" = "Ambiguity / Неясность";
+
+// VUCA: Решение
+"category12Frame12Card1" = "Vision / Видение";
+"category12Frame12Card2" = "Understanding / Понимание";
+"category12Frame12Card3" = "Clarity / Ясность";
+"category12Frame12Card4" = "Agility / Прыть";
+
+//12
+// Вечные сценарии
+"category7Frame1Card1" = "Штурм города";
+"category7Frame1Card2" = "Скитание и возвращение";
+"category7Frame1Card3" = "Поиск и обретение";
+"category7Frame1Card4" = "Превращение Бога";
+
+// Архитектура реальности
+"category7Frame2Card1" = "Функция";
+"category7Frame2Card2" = "Конструкция";
+"category7Frame2Card3" = "Дизайн";
+"category7Frame2Card4" = "Масштаб";
+
+// Видение
+"category7Frame3Card1" = "Слепота";
+"category7Frame3Card2" = "Вижу, что вижу";
+"category7Frame3Card3" = "Вижу, что покажут";
+"category7Frame3Card4" = "Вижу в тумане";
+
+// Воображение
+"category7Frame4Card1" = "Фантазия";
+"category7Frame4Card2" = "Мечта";
+"category7Frame4Card3" = "План";
+"category7Frame4Card4" = "Реальность";
+
+// Изобретение
+"category7Frame5Card1" = "Подготовка";
+"category7Frame5Card2" = "Созревание";
+"category7Frame5Card3" = "Озарение";
+"category7Frame5Card4" = "Проверка";
+
+// Конструктивизм
+"category7Frame6Card1" = "Материал";
+"category7Frame6Card2" = "Смысл";
+"category7Frame6Card3" = "Моделирование";
+"category7Frame6Card4" = "Объем";
+
+// Креативность
+"category7Frame7Card1" = "Постановка задачи";
+"category7Frame7Card2" = "Амплификация";
+"category7Frame7Card3" = "Редукция";
+"category7Frame7Card4" = "Эксперимент";
+
+// Круг обучения
+"category7Frame8Card1" = "Не знаю, \nчто не знаю";
+"category7Frame8Card2" = "Знаю,\nчто не знаю";
+"category7Frame8Card3" = "Знаю,\nчто знаю";
+"category7Frame8Card4" = "Не знаю,\nчто знаю";
+
+// Литература
+"category7Frame9Card1" = "Веды / мифы";
+"category7Frame9Card2" = "Роман";
+"category7Frame9Card3" = "Повесть / притча";
+"category7Frame9Card4" = "Афоризм / Слово";
+
+// Творческие процессы
+"category7Frame10Card1" = "Язык";
+"category7Frame10Card2" = "Нравы";
+"category7Frame10Card3" = "Искусство";
+"category7Frame10Card4" = "Духовность";
+
+// Художественное произведение
+"category7Frame11Card1" = "Картина";
+"category7Frame11Card2" = "Театр / кино";
+"category7Frame11Card3" = "Перформанс";
+"category7Frame11Card4" = "Хэппенинг";
+
+// Эксперимент
+"category7Frame12Card1" = "Идея";
+"category7Frame12Card2" = "Концентрация";
+"category7Frame12Card3" = "Схватывание";
+"category7Frame12Card4" = "Тест";
+
+//13
+// Антиномии мира
+"category5Frame1Card1" = "Величины";
+"category5Frame1Card2" = "Деление";
+"category5Frame1Card3" = "Возникновение";
+"category5Frame1Card4" = "Зависимости существования";
+
+// Антропология
+"category5Frame2Card1" = "Натурализм";
+"category5Frame2Card2" = "Гедонизм";
+"category5Frame2Card3" = "Экзистенциализм";
+"category5Frame2Card4" = "Эвдемонизм";
+
+// Герменевтика
+"category5Frame3Card1" = "Представление";
+"category5Frame3Card2" = "Переживание";
+"category5Frame3Card3" = "Выражение";
+"category5Frame3Card4" = "Понимание";
+
+// Онтология
+"category5Frame4Card1" = "Холос";
+"category5Frame4Card2" = "Мифос";
+"category5Frame4Card3" = "Логос";
+"category5Frame4Card4" = "Топос";
+
+// Парадигмы
+"category5Frame5Card1" = "Премодерн";
+"category5Frame5Card2" = "Модерн";
+"category5Frame5Card3" = "Постмодерн";
+"category5Frame5Card4" = "Метамодерн";
+
+// Повороты философии
+"category5Frame6Card1" = "Онтологический";
+"category5Frame6Card2" = "Лингвистический";
+"category5Frame6Card3" = "Прагматический";
+"category5Frame6Card4" = "Метафизический";
+
+// Превращение
+"category5Frame7Card1" = "Логос";
+"category5Frame7Card2" = "Логика";
+"category5Frame7Card3" = "Логистика";
+"category5Frame7Card4" = "Логема";
+
+// Признаки духовности
+"category5Frame8Card1" = "Всеобщность";
+"category5Frame8Card2" = "Чистота";
+"category5Frame8Card3" = "Свобода";
+"category5Frame8Card4" = "Неизменность";
+
+// Сущности
+"category5Frame9Card1" = "Объект";
+"category5Frame9Card2" = "Субъект";
+"category5Frame9Card3" = "Проект";
+"category5Frame9Card4" = "Траект";
+
+// Теория воли
+"category5Frame10Card1" = "Чувственность";
+"category5Frame10Card2" = "Познание";
+"category5Frame10Card3" = "Пробуждение";
+"category5Frame10Card4" = "Бытие";
+
+// Феноменология
+"category5Frame11Card1" = "Эпохе";
+"category5Frame11Card2" = "Дескрипция";
+"category5Frame11Card3" = "Горизонтализация";
+"category5Frame11Card4" = "Смыслы";
+
+// Философия духа
+"category5Frame12Card1" = "Природа (Бергсон)";
+"category5Frame12Card2" = "Субъект (Фрейд)";
+"category5Frame12Card3" = "Объект (Дильтей)";
+"category5Frame12Card4" = "Абсолют (Гегель)";
+
+// Арт-роли
+"category10Frame1Card1" = "Художник";
+"category10Frame1Card2" = "Наблюдатель";
+"category10Frame1Card3" = "Куратор";
+"category10Frame1Card4" = "Заказчик";
+
+// Архетип Анимус
+"category10Frame2Card1" = "Мачо";
+"category10Frame2Card2" = "Рыцарь";
+"category10Frame2Card3" = "Правитель";
+"category10Frame2Card4" = "Мудрец";
+
+// Ловушки пути
+"category10Frame3Card1" = "Страх";
+"category10Frame3Card2" = "Ясность";
+"category10Frame3Card3" = "Сила";
+"category10Frame3Card4" = "Старость";
+
+// Ошо
+"category10Frame4Card1" = "Жизнь";
+"category10Frame4Card2" = "Смех";
+"category10Frame4Card3" = "Любовь";
+"category10Frame4Card4" = "Свет";
+
+// Прибежище
+"category10Frame5Card1" = "Внешний";
+"category10Frame5Card2" = "Внутренний";
+"category10Frame5Card3" = "Сакральный";
+"category10Frame5Card4" = "Абсолютный";
+
+// Психологический возраст
+"category10Frame6Card1" = "Ребенок";
+"category10Frame6Card2" = "Подросток";
+"category10Frame6Card3" = "Взрослый";
+"category10Frame6Card4" = "Старец";
+
+// Путь героя
+"category10Frame7Card1" = "Ты не заметен";
+"category10Frame7Card2" = "Над тобой все смеются";
+"category10Frame7Card3" = "С тобой все борются";
+"category10Frame7Card4" = "Ты побеждаешь";
+
+// Роли управления
+"category10Frame8Card1" = "Исполнитель";
+"category10Frame8Card2" = "Эксперт";
+"category10Frame8Card3" = "Архитектор";
+"category10Frame8Card4" = "Владелец";
+
+// Социальные архетипы
+"category10Frame9Card1" = "Жертва";
+"category10Frame9Card2" = "Герой";
+"category10Frame9Card3" = "Искатель";
+"category10Frame9Card4" = "Игрок";
+
+// Четвертый путь
+"category10Frame10Card1" = "Факир";
+"category10Frame10Card2" = "Монах";
+"category10Frame10Card3" = "Йогин";
+"category10Frame10Card4" = "Хитрец";
+
+//14
+// Ангелы предстояния (исключить)
+"category16Frame1Card1" = "Михаил";
+"category16Frame1Card2" = "Рафаил";
+"category16Frame1Card3" = "Гавриил";
+"category16Frame1Card4" = "Фануил";
+
+// Духовные причины в познании (исключить)
+"category16Frame2Card1" = "Бог";
+"category16Frame2Card2" = "Логос";
+"category16Frame2Card3" = "Гностик";
+"category16Frame2Card4" = "Образы искусства";
+
+// Священные писания Евангелии (исключить)
+"category16Frame3Card1" = "От Адама до потопа";
+"category16Frame3Card2" = "После потопа при Ное";
+"category16Frame3Card3" = "При Моисее";
+"category16Frame3Card4" = "В 4-х Евангилиях";
+
+// Стадии жизни Иисуса Христа (исключить)
+"category16Frame4Card1" = "Человек ев. от Матфея / Рождение во плоти";
+"category16Frame4Card2" = "Телец ев. от Луки / Жертвенность на кресте";
+"category16Frame4Card3" = "Лев ев. от Макара / Воскресенье";
+"category16Frame4Card4" = "Орёл ев. от Иоанны / Вознесение на небо";
+
+// Ступени любви к богу (исключить)
+"category16Frame5Card1" = "Плотская";
+"category16Frame5Card2" = "Наёмническая";
+"category16Frame5Card3" = "Сыновняя";
+"category16Frame5Card4" = "Мистическая";
+
+// Верное письмо
+"category16Frame6Card1" = "Краткость";
+"category16Frame6Card2" = "Ясность";
+"category16Frame6Card3" = "Обаяние";
+"category16Frame6Card4" = "Простота";
+
+// Мысленно творимая молитва
+"category16Frame7Card1" = "Дискурсивная медитация";
+"category16Frame7Card2" = "Аффективная молитва";
+"category16Frame7Card3" = "Начальное созерцание";
+"category16Frame7Card4" = "Совершенное созерцание";
+
+// Принципы Творения
+"category16Frame8Card1" = "Мера";
+"category16Frame8Card2" = "Ритм";
+"category16Frame8Card3" = "Порядок";
+"category16Frame8Card4" = "Гармония";
+
+// Стадии сущности познания
+"category16Frame9Card1" = "Чувства / Sensus";
+"category16Frame9Card2" = "Разум / Ratio";
+"category16Frame9Card3" = "Интеллект / Intellectus";
+"category16Frame9Card4" = "Видение / Visio";
+
+// Структура воли
+"category16Frame10Card1" = "Благоразумие";
+"category16Frame10Card2" = "Умеренность";
+"category16Frame10Card3" = "Мужество";
+"category16Frame10Card4" = "Справедливость";
+
+// Толкования и изъяснения
+"category16Frame11Card1" = "История";
+"category16Frame11Card2" = "Аллегория";
+"category16Frame11Card3" = "Аналогия";
+"category16Frame11Card4" = "Этиология";
+
+// Целевые причины в искусстве
+"category16Frame12Card1" = "Художник";
+"category16Frame12Card2" = "Материал";
+"category16Frame12Card3" = "Образ";
+"category16Frame12Card4" = "Почтение к изображенному";
+
+//15
+
+// Движение духа (Экзистенциализм)
+"category9Frame1Card1" = "Консерватизм";
+"category9Frame1Card2" = "Экспансия";
+"category9Frame1Card3" = "Трансформация";
+"category9Frame1Card4" = "Интеграция";
+
+// Духовная культура (Экзистенциализм)
+"category9Frame2Card1" = "Пантемизм";
+"category9Frame2Card2" = "Монотеизм";
+"category9Frame2Card3" = "Атеизм";
+"category9Frame2Card4" = "Космизм";
+
+// Народный дух (Экзистенциализм)
+"category9Frame3Card1" = "Правитель";
+"category9Frame3Card2" = "Свободные граждане";
+"category9Frame3Card3" = "Все граждане";
+"category9Frame3Card4" = "Все люди";
+
+// Неопределенность: антикризис (Экзистенциализм)
+"category9Frame4Card1" = "Исследование";
+"category9Frame4Card2" = "Решительность";
+"category9Frame4Card3" = "Прояснение";
+"category9Frame4Card4" = "Вовлеченность";
+
+// Неопределенность: кризис (Экзистенциализм)
+"category9Frame5Card1" = "Отрицание";
+"category9Frame5Card2" = "Конфронтация";
+"category9Frame5Card3" = "Приспособление";
+"category9Frame5Card4" = "Понимание";
+
+// Практика духа (Экзистенциализм)
+"category9Frame6Card1" = "Дыхание";
+"category9Frame6Card2" = "Внимание";
+"category9Frame6Card3" = "Энергия";
+"category9Frame6Card4" = "Проживание";
+
+// Цикл превращения (Экзистенциализм)
+"category9Frame7Card1" = "Сингулярность";
+"category9Frame7Card2" = "Инвариант";
+"category9Frame7Card3" = "Четвиричность";
+"category9Frame7Card4" = "Смыслобразование";
+
+// Экзистенциализм (Экзистенциализм)
+"category9Frame8Card1" = "Натуральный человек";
+"category9Frame8Card2" = "Эстет";
+"category9Frame8Card3" = "Этик";
+"category9Frame8Card4" = "Религиозный человек";
+
+// Экзистенциалы (Экзистенциализм)
+"category9Frame9Card1" = "Изоляция";
+"category9Frame9Card2" = "Свобода";
+"category9Frame9Card3" = "Бессмысленность";
+"category9Frame9Card4" = "Смерть";
+
+// Экзистенциальный анализ (Экзистенциализм)
+"category9Frame10Card1" = "Натура";
+"category9Frame10Card2" = "Социум";
+"category9Frame10Card3" = "Личность";
+"category9Frame10Card4" = "Дух";
+
+// Экзистенция (Экзистенциализм)
+"category9Frame11Card1" = "Натурализм";
+"category9Frame11Card2" = "Индивидуализм";
+"category9Frame11Card3" = "Персонализм";
+"category9Frame11Card4" = "Мистицизм";
+
+// Явления духа (Экзистенциализм)
+"category9Frame12Card1" = "Природа";
+"category9Frame12Card2" = "Культура";
+"category9Frame12Card3" = "Индвивид";
+"category9Frame12Card4" = "Универсум";
+
+// Закон достаточности (Философия жизни/Архетипы)
+"category10Frame14Card1" = "Причинность";
+"category10Frame14Card2" = "Познание";
+"category10Frame14Card3" = "Бытие";
+"category10Frame14Card4" = "Мотивация";

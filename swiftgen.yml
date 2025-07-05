@@ -1,0 +1,14 @@
+strings:
+  - inputs:
+      - "MetaModern/Localization/ru.lproj/TabBar.strings"
+      - "MetaModern/Localization/ru.lproj/Catalog.strings"
+      - "MetaModern/Localization/ru.lproj/Category.strings"
+      - "MetaModern/Localization/ru.lproj/Frame.strings"
+      - "MetaModern/Localization/ru.lproj/Card.strings"
+      - "MetaModern/Localization/ru.lproj/Details.strings"
+      - "MetaModern/Localization/ru.lproj/Author.strings"
+    outputs:
+      - templateName: structured-swift5
+        output: "MetaModern/Localization/Generated/L10n.swift"
+        params:
+          enumName: L10n

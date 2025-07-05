@@ -1,0 +1,30 @@
+//
+//  CatalogViewController+UITableViewDataSource.swift
+//  MetaModern
+//
+//  Created by Александр Павлицкий on 04.07.2025.
+//
+
+import UIKit
+
+// MARK: - UITableViewDataSource
+extension CatalogViewController: UITableViewDataSource {
+    func numberOfSections(in tableView: UITableView) -> Int {
+        self.viewModel.categories.count
+    }
+    
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        self.viewModel.categories[section].frames.count
+    }
+    
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        guard let cell = tableView.dequeueReusableCell(withIdentifier: "CatalogTableViewCell", for: indexPath) as? CatalogTableViewCell else { return UITableViewCell() }
+        cell.separatorInset = .zero
+        
+        let frame = self.viewModel.categories[indexPath.section].frames[indexPath.row]
+        cell.setup(frame)
+        
+        return cell
+    }
+    
+}

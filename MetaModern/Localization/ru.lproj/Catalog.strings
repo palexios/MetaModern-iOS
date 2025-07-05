@@ -1,0 +1,13 @@
+/* 
+  Catalog.strings
+  MetaModern
+
+  Created by Александр Павлицкий on 22.06.2025.
+  
+*/
+
+"headerViewTitle" = "Каталог";
+"alertControllerTitle" = "Поиск";
+"alertControllerMessage" = "Введите имя автора, название рамки или карточки";
+"alertControllerCancelActionTitle" = "Отмена";
+"alertControllerSearchActionTitle" = "Поиск";

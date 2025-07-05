@@ -1,0 +1,606 @@
+/* 
+  Author.strings
+  MetaModern
+
+  Created by Александр Павлицкий on 01.07.2025.
+  
+*/
+
+
+//1
+// Алгоритм мышления м. Бо
+"category11Frame1Author" = "Павел Пискарёв";
+
+// Анализ
+"category11Frame2Author" = "Павел Пискарёв";
+
+// Аналитическая философия
+"category11Frame3Author" = "Людвиг Витгенштейн";
+
+// Аналитический процесс
+"category11Frame4Author" = "Зигмунд Фрейд";
+
+// Гештальт подход
+"category11Frame5Author" = "Константин Павлов";
+
+// Когнитивный анализ
+"category11Frame6Author" = "Ирвинг Гофман";
+
+// Лингвистический анализ
+"category11Frame7Author" = "Ирвинг Гофман";
+
+// Перенос
+"category11Frame8Author" = "";
+
+// Принципы интеграции
+"category11Frame9Author" = "Владимир Майков";
+
+// Рационализм
+"category11Frame10Author" = "Рене Декарт";
+
+// Уровни бессознательного
+"category11Frame11Author" = "Станислав Гроф";
+
+// Эволюция жизни
+"category11Frame12Author" = "Чарлз Дарвин";
+
+//2
+// Бизнес
+"category4Frame1Author" = "Павел Пискарёв";
+
+// Брендинг
+"category4Frame2Author" = "Томас Гэд";
+
+// Деятельность
+"category4Frame3Author" = "Павел Пискарёв";
+
+// Команда
+"category4Frame4Author" = "Сьюзан Уиллан";
+
+// Лидерство
+"category4Frame5Author" = "";
+
+// Маркетинг
+"category4Frame6Author" = "Денис Полуэктов";
+
+// Менеджмент
+"category4Frame7Author" = "Анри Файоль";
+
+// Организация
+"category4Frame8Author" = "Ицхак Адизес";
+
+// Профессионал
+"category4Frame9Author" = "Павел Пискарёв";
+
+// Профессия
+"category4Frame10Author" = "Павел Пискарёв";
+
+// Стиль управления
+"category4Frame11Author" = "Ренсис Лайкерт";
+
+// Элитный продукт
+"category4Frame12Author" = "Павел Пискарёв";
+
+//3
+// Взаимопроникновение
+"category13Frame1Author" = "Дхармадхату";
+
+// Гаутама Сиддхартха
+"category13Frame2Author" = "";
+
+// Категории
+"category13Frame3Author" = "Фэн Ю-Лань";
+
+// Полное посвящение
+"category13Frame4Author" = "Ваджраяна";
+
+// Праджапарамита
+"category13Frame5Author" = "Нагарждуна";
+
+// Превращение
+"category13Frame6Author" = "Шао Юн";
+
+// Гаутама Сиддхартха
+"category13Frame7Author" = "";
+
+// Действия Дзен
+"category13Frame8Author" = "Бодхидхарма";
+
+// Доброта
+"category13Frame9Author" = "Мэн-цзы";
+
+// Новая этика
+"category13Frame10Author" = "Ван Янмин";
+
+// Посвящение Дзен
+"category13Frame11Author" = "Бодхидхарма";
+
+// Типы передачи
+"category13Frame12Author" = "Ваджраяна";
+
+//4
+// Аспекты разума
+"category14Frame1Author" = "Джагги Васудев";
+
+// Зороастризм Авеста
+"category14Frame2Author" = "";
+
+// Индуизм
+"category14Frame3Author" = "";
+
+// Искренность
+"category14Frame4Author" = "Ихлас";
+
+// Касты
+"category14Frame5Author" = "";
+
+// Огонь Аша
+"category14Frame6Author" = "";
+
+// Пады йога
+"category14Frame7Author" = "Патанджали";
+
+// Положения
+"category14Frame8Author" = "";
+
+// Путь мастера Аша
+"category14Frame9Author" = "Ashavan";
+
+// Санатана-Дхарма
+"category14Frame10Author" = "Индуизм";
+
+// Состояния
+"category14Frame11Author" = "";
+
+// Суфии
+"category14Frame12Author" = "";
+
+//5
+// Арифметика
+"category15Frame1Author" = "Пифагор";
+
+// Архе
+"category15Frame2Author" = "Эмпедокл";
+
+// Бытие
+"category15Frame3Author" = "Парменид";
+
+// Категории
+"category15Frame4Author" = "Аристотель";
+
+// Квадрат искусства
+"category15Frame5Author" = "Кассиодор";
+
+// Маевтика
+"category15Frame6Author" = "Сократ";
+
+// Метриопатия
+"category15Frame7Author" = "Секст Эмпирик";
+
+// Оратория
+"category15Frame8Author" = "Цицерон";
+
+// Причина
+"category15Frame9Author" = "Аристотель";
+
+// Справедливость
+"category15Frame10Author" = "Платон";
+
+// Тетрафармакон
+"category15Frame11Author" = "Эпикур";
+
+// Уподобление Единому
+"category15Frame12Author" = "Плотин";
+
+//6
+// Актуализация конфликта
+"category3Frame1Author" = "Павел Пискарёв";
+
+// Зоны коммуникации / Окно Джохари
+"category3Frame2Author" = "Д. Лифт, Х. Инхам";
+
+// Коммуникация
+"category3Frame3Author" = "Шульц фон Тун Фридеман";
+
+// Объекты конфликта
+"category3Frame4Author" = "Павел Пискарёв";
+
+// Психические функции
+"category3Frame5Author" = "Зигмунд Фрейд";
+
+// Содержание коммуникации
+"category3Frame6Author" = "Павел Пискарёв";
+
+// Стадии конфликта
+"category3Frame7Author" = "";
+
+// Форма конфликта
+"category3Frame8Author" = "Ольга Тургенева";
+
+// Формы коммуникации
+"category3Frame9Author" = "Павел Пискарёв";
+
+// Цикл конфликта
+"category3Frame10Author" = "";
+
+// Эмоции конфликта
+"category3Frame11Author" = "Павел Пискарёв";
+
+// Этапы коммуникации
+"category3Frame12Author" = "Павел Пискарёв";
+
+//7
+// Влияние
+"category1Frame1Author" = "";
+
+// Духовный коучинг
+"category1Frame2Author" = "Майкл Роуч";
+
+// Запрос коучинга
+"category1Frame3Author" = "Павел Пискарёв";
+
+// Клиенты
+"category1Frame4Author" = "Павел Пискарёв";
+
+// Коуч-форма
+"category1Frame5Author" = "";
+
+// Обратная связь
+"category1Frame6Author" = "Павел Пискарёв";
+
+// Результаты коучинга
+"category1Frame7Author" = "Павел Пискарёв";
+
+// Человек
+"category1Frame8Author" = "";
+
+// Что
+"category1Frame9Author" = "Денис Полуэктов";
+
+// Эволюция личности
+"category1Frame10Author" = "Александр Асмолов";
+
+// Этапы развития
+"category1Frame11Author" = "";
+
+// AQAL
+"category1Frame12Author" = "Кен Уилбер";
+
+// GROW
+"category1Frame13Author" = "Джон Уитмор";
+
+// True
+"category1Frame14Author" = "Сергей Щепилов";
+
+//8
+// Акт бытия
+"category8Frame1Author" = "Павел Пискарёв";
+
+// Вера
+"category8Frame2Author" = "Павел Пискарёв";
+
+// Воля
+"category8Frame3Author" = "Элиас Сент-Эльмо Льюис";
+
+// Мир
+"category8Frame4Author" = "Павел Пискарёв";
+
+// Мотивация
+"category8Frame5Author" = "Павел Пискарёв";
+
+// НейроГештальт
+"category8Frame6Author" = "Павел Пискарёв";
+
+// Позитивный опыт
+"category8Frame7Author" = "";
+
+// Принципы развития
+"category8Frame8Author" = "Павел Пискарёв";
+
+// Реализация
+"category8Frame9Author" = "Павел Пискарёв";
+
+// Сознание
+"category8Frame10Author" = "Павел Пискарёв, Андрей Проворов";
+
+// Эффекты / Rescue
+"category8Frame11Author" = "";
+
+//9
+// Бизнес-анализ
+"category2Frame1Author" = "Павел Пискарёв";
+
+// ИКИГАЙ
+"category2Frame2Author" = "";
+
+// Личный проект
+"category2Frame3Author" = "Павел Пискарёв";
+
+// Объекты проекта
+"category2Frame4Author" = "Павел Пискарёв";
+
+// Пропорции проекта
+"category2Frame5Author" = "Павел Пискарёв";
+
+// Процесс
+"category2Frame6Author" = "Павел Пискарёв";
+
+// Результат
+"category2Frame7Author" = "";
+
+// Самоактуализация
+"category2Frame8Author" = "Павел Пискарёв";
+
+// Стадии проекта
+"category2Frame9Author" = "Павел Пискарёв";
+
+// Управление вниманием
+"category2Frame10Author" = "Павел Пискарёв";
+
+// Этапы проекта
+"category2Frame11Author" = "";
+
+// T.O.T.E.
+"category2Frame12Author" = "Джон Гриндер, Ричард Бендлер";
+
+//10
+// Биодинамика
+"category6Frame1Author" = "Юлий Массерманн";
+
+// Перинатальные матрицы
+"category6Frame2Author" = "Станислав Гроф";
+
+// Психея
+"category6Frame3Author" = "Апулей";
+
+// Психические функции
+"category6Frame4Author" = "Карл Густав Юнг";
+
+// Психоанализ
+"category6Frame5Author" = "Жак Мари Эмиль Лакан";
+
+// Психологические школы
+"category6Frame6Author" = "Павел Пискарёв";
+
+// Сопротивления
+"category6Frame7Author" = "";
+
+// Стадии развития
+"category6Frame8Author" = "Зигмунд Фрейд";
+
+// Транзактный анализ
+"category6Frame9Author" = "Эрик Берн";
+
+// Формы сознания
+"category6Frame10Author" = "Павел Пискарёв";
+
+// Ценностные ориентации
+"category6Frame11Author" = "Эрих Фромм";
+
+// Цикл реакции
+"category6Frame12Author" = "Лев Выготский";
+
+//11
+// Ассертивный тренинг
+"category12Frame1Author" = "";
+
+// Культура
+"category12Frame2Author" = "";
+
+// Образ человека
+"category12Frame3Author" = "Павел Пискарёв";
+
+// Общество
+"category12Frame4Author" = "";
+
+// Перенос
+"category12Frame5Author" = "Павел Пискарёв";
+
+// Социализация
+"category12Frame6Author" = "Нил Смельзер";
+
+// Социальное развитие
+"category12Frame7Author" = "Льюис Морган / Фридрих Энгельс";
+
+// Социология
+"category12Frame8Author" = "Макс Вебер";
+
+// Уровни влияния
+"category12Frame9Author" = "Смельзер, Фуко";
+
+// Цикл Штрауса - Хоув
+"category12Frame10Author" = "";
+
+// VUCA: Проблематика
+"category12Frame11Author" = "";
+
+// VUCA: Решение
+"category12Frame12Author" = "Павел Пискарёв";
+
+//12
+// Вечные сценарии
+"category7Frame1Author" = "Хорхе Луис Борхес";
+
+// Архитектура реальности
+"category7Frame2Author" = "Марк Витрувий";
+
+// Видение
+"category7Frame3Author" = "Леонардо да Винчи";
+
+// Воображение
+"category7Frame4Author" = "Павел Пискарёв";
+
+// Изобретение
+"category7Frame5Author" = "Анри Пуанкаре";
+
+// Конструктивизм
+"category7Frame6Author" = "Владимир Татлин";
+
+// Креативность
+"category7Frame7Author" = "Павел Пискарёв";
+
+// Круг обучения
+"category7Frame8Author" = "Ричард Бендлер";
+
+// Литература
+"category7Frame9Author" = "Павел Пискарёв";
+
+// Творческие процессы
+"category7Frame10Author" = "Вильгельм Вунт";
+
+// Художественное произведение
+"category7Frame11Author" = "Павел Пискарёв";
+
+// Эксперимент
+"category7Frame12Author" = "Грэм Уоллес";
+
+//13
+// Антиномии мира
+"category5Frame1Author" = "Кант";
+
+// Антропология
+"category5Frame2Author" = "";
+
+// Герменевтика
+"category5Frame3Author" = "Вильгельм Дильтей";
+
+// Онтология
+"category5Frame4Author" = "Павел Пискарёв";
+
+// Парадигмы
+"category5Frame5Author" = "Павел Пискарёв";
+
+// Повороты философии
+"category5Frame6Author" = "";
+
+// Превращение
+"category5Frame7Author" = "";
+
+// Признаки духовности
+"category5Frame8Author" = "Кант";
+
+// Сущности
+"category5Frame9Author" = "";
+
+// Теория воли
+"category5Frame10Author" = "Артур Шопенгауэр";
+
+// Феноменология
+"category5Frame11Author" = "Эдмунд Гуссерль";
+
+// Философия духа
+"category5Frame12Author" = "Павел Пискарёв";
+
+// Архетип Анима
+"category10Frame1Author" = "Карл Густав Юнг";
+
+// Стадии развития человека
+"category10Frame2Author" = "Фридрих Ницше";
+
+// Арт-роли
+"category10Frame3Author" = "";
+
+// Архетип Анимус
+"category10Frame4Author" = "Карл Густав Юнг";
+
+// Ловушки пути
+"category10Frame5Author" = "Кастанеда";
+
+// Ошо
+"category10Frame6Author" = "Бхагаван Шри Раджниш";
+
+// Прибежище
+"category10Frame7Author" = "Учитель";
+
+// Психологический возраст
+"category10Frame8Author" = "";
+
+// Путь героя
+"category10Frame9Author" = "Махатма Ганди";
+
+// Роли управления
+"category10Frame10Author" = "";
+
+// Социальные архетипы
+"category10Frame11Author" = "";
+
+// Четвертый путь
+"category10Frame12Author" = "Г.И. Гурджиев";
+
+//14
+// Ангелы предстояния
+"category16Frame1Author" = "";
+
+// Духовные причины в познании
+"category16Frame2Author" = "Климент I";
+
+// Священные писания Евангелии
+"category16Frame3Author" = "";
+
+// Стадии жизни Иисуса Христа
+"category16Frame4Author" = "Живые существа завета";
+
+// Ступени любви к богу
+"category16Frame5Author" = "Бернар Клервосский";
+
+// Верное письмо
+"category16Frame6Author" = "Св. Григорий Богослов";
+
+// Мысленно творимая молитва
+"category16Frame7Author" = "А. Де Пас (+1620)";
+
+// Принципы Творения
+"category16Frame8Author" = "пр. Иеремия";
+
+// Стадии сущности познания
+"category16Frame9Author" = "Никола Казуанский";
+
+// Структура воли
+"category16Frame10Author" = "Фома Аквинский";
+
+// Толкования и изъяснения
+"category16Frame11Author" = "бл. Августин";
+
+// Целевые причины в искусстве
+"category16Frame12Author" = "Климент I";
+
+//15
+
+// Движение духа
+"category9Frame1Author" = "Владимир Козлов";
+
+// Духовная культура
+"category9Frame2Author" = "";
+
+// Народный дух
+"category9Frame3Author" = "Георг Вильгельм Фридрих Гегель";
+
+// Неопределенность: антикризис
+"category9Frame4Author" = "Эрнесто Спинелли";
+
+// Неопределенность: кризис
+"category9Frame5Author" = "Эрнесто Спинелли";
+
+// Практика духа
+"category9Frame6Author" = "";
+
+// Цикл превращения
+"category9Frame7Author" = "";
+
+// Экзистенциализм
+"category9Frame8Author" = "Сёрен Кьеркегор";
+
+// Экзистенциалы
+"category9Frame9Author" = "Ирвин Ялом";
+
+// Экзистенциальный анализ
+"category9Frame10Author" = "Людвиг Бинцвангер, Эмми ван Дорцен";
+
+// Экзистенция
+"category9Frame11Author" = "";
+
+// Явления духа
+"category9Frame12Author" = "";
+
+// Закон достаточности
+"category0Frame1Author" = "Артур Шопенгауэр"; // Категория не указана в исходном списке
