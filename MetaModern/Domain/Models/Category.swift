@@ -8,7 +8,7 @@
 import Foundation
 
 // MARK: - Category
-struct Category {
+struct Category: IdentifiableEquatable {
     var id: UUID
     var name: String
     var frames: [Frame]

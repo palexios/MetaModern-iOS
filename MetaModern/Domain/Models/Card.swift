@@ -8,7 +8,7 @@
 import Foundation
 
 // MARK: - Card
-struct Card {
+struct Card: IdentifiableEquatable {
     var id: UUID
     var name: String
     

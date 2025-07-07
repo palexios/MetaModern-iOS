@@ -8,7 +8,7 @@
 import Foundation
 
 // MARK: - Frame
-struct Frame {
+struct Frame: IdentifiableEquatable {
     var id: UUID
     var name: String
     var author: String?
