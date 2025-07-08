@@ -16,6 +16,7 @@ public enum DSColor {
         static let gray4 = "dsGray4"
         static let gray5 = "dsGray5"
         static let darkBlue = "dsDarkBlue"
+        static let cyan = "dsCyan"
     }
     
     // MARK: - Text
@@ -35,5 +36,6 @@ public enum DSColor {
         static var primary: String { Shared.white }
         static var secondary: String { Shared.gray5}
         static var white: String { Shared.white }
+        static var cyan: String { Shared.cyan }
     }
 }

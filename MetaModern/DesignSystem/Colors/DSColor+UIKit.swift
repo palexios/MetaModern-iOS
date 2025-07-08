@@ -27,6 +27,7 @@ public extension UIColor {
             static let primary = UIColor(named: DSColor.Background.primary)!
             static let secondary = UIColor(named: DSColor.Background.secondary)!
             static let white = UIColor(named: DSColor.Background.white)!
+            static let cyan = UIColor(named: DSColor.Background.cyan)!
         }
     }
 }
