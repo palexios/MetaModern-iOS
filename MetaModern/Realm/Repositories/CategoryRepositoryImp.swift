@@ -34,10 +34,10 @@ final class CategoryRepositoryImp: CategoryRepository {
         }.eraseToAnyPublisher()
     }
     
-    /// Fetching all categories from Realm Database
+    /// Fetches all categories from Realm Database
     func fetchAll() -> AnyPublisher<[Category], Never> {
         Future<[Category], Never> { promise in
-            DispatchQueue.global(qos: .userInitiated).asyncAfter(deadline: .now() + 2) {
+            DispatchQueue.global(qos: .userInitiated).async {
                 do {
                     let realm = try Realm()
                     let entityObjects = Array(realm.objects(CategoryEntity.self))
