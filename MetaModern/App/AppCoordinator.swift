@@ -16,7 +16,8 @@ final class AppCoordinator: Coordinator {
     private let hasSeenOnboardingUD: UserDefaultsUnityManager<Bool>
     private let hasDatabaseLoadedUD: UserDefaultsUnityManager<Bool>
     
-    private let categoryRepository: CategoryRepository?
+    private let categoryRepository: CategoryRepository
+    private let frameRepository: FrameRepository
     
     private let factory: AppFactory
     private let window: UIWindow?
@@ -30,6 +31,7 @@ final class AppCoordinator: Coordinator {
          hasSeenOnboardingUD: UserDefaultsUnityManager<Bool> = UserDefaultsOrganizer.hasSeenOnboarding,
          hasDatabaseLoaded: UserDefaultsUnityManager<Bool> = UserDefaultsOrganizer.hasDatabaseLoaded,
          categoryRepository: CategoryRepository,
+         frameRepository: FrameRepository,
          factory: AppFactory,
          window: UIWindow?) {
         
@@ -37,6 +39,7 @@ final class AppCoordinator: Coordinator {
         self.hasSeenOnboardingUD = hasSeenOnboardingUD
         self.hasDatabaseLoadedUD = hasDatabaseLoaded
         self.categoryRepository = categoryRepository
+        self.frameRepository = frameRepository
         self.factory = factory
         self.window = window
     }
@@ -50,7 +53,6 @@ final class AppCoordinator: Coordinator {
         configureWindow()
         
         if !hasDatabaseLoaded {
-            guard let categoryRepository = self.categoryRepository else { return }
             
             categoryRepository.create(categories: preloadedData).sink { completion in
                 switch completion {
@@ -75,7 +77,7 @@ final class AppCoordinator: Coordinator {
     }
     
     private func startMainTabBarCoordinator() {
-        self.activeCoordinator = factory.makeMainTabBarCoordinator(navigationController: self.navigationController)
+        self.activeCoordinator = factory.makeMainTabBarCoordinator(navigationController: self.navigationController, categoryRepository: categoryRepository, frameRepository: frameRepository)
         activeCoordinator?.start()
     }
     

@@ -8,6 +8,6 @@
 import UIKit
 
 protocol CatalogFactory {
-    func makeCatalogViewController(categoryRepository: CategoryRepository) -> UIViewController
+    func makeCatalogViewController(categoryRepository: CategoryRepository, frameRepository: FrameRepository) -> UIViewController
     func makeCatalogItemTabBar() -> UITabBarItem
 }

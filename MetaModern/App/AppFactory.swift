@@ -16,9 +16,9 @@ struct AppFactory {
         return coordinator
     }
     
-    func makeMainTabBarCoordinator(navigationController: UINavigationController) -> Coordinator {
+    func makeMainTabBarCoordinator(navigationController: UINavigationController, categoryRepository: CategoryRepository, frameRepository: FrameRepository) -> Coordinator {
         let factory = MainTabBarFactory()
-        let coordinator = MainTabBarCoordinator(navigationController: navigationController, factory: factory)
+        let coordinator = MainTabBarCoordinator(navigationController: navigationController, factory: factory, categoryRepository: categoryRepository, frameRepository: frameRepository)
         
         return coordinator
     }

@@ -13,15 +13,15 @@ struct MainTabBarFactory {
         MainTabBarController()
     }
     
-    func makeChildCoordinators(categoryRepository: CategoryRepository) -> [Coordinator] {
-        [makeCatalogCoordinator(categoryRepository: categoryRepository)]
+    func makeChildCoordinators(categoryRepository: CategoryRepository, frameRepository: FrameRepository) -> [Coordinator] {
+        [makeCatalogCoordinator(categoryRepository: categoryRepository, frameRepository: frameRepository)]
     }
     
-    private func makeCatalogCoordinator(categoryRepository: CategoryRepository) -> Coordinator {
+    private func makeCatalogCoordinator(categoryRepository: CategoryRepository, frameRepository: FrameRepository) -> Coordinator {
         let navigation = UINavigationController()
         navigation.isNavigationBarHidden = true
         let factory = CatalogFactoryImp()
         
-        return CatalogCoordinator(navigationController: navigation, factory: factory, categoryRepository: categoryRepository)
+        return CatalogCoordinator(navigationController: navigation, factory: factory, categoryRepository: categoryRepository, frameRepository: frameRepository)
     }
 }

@@ -9,8 +9,8 @@ import UIKit
 
 // MARK: - CatalogFactoryImp
 struct CatalogFactoryImp: CatalogFactory {
-    func makeCatalogViewController(categoryRepository: CategoryRepository) -> UIViewController {
-        let vm = CatalogViewModel(categoryRepository: categoryRepository)
+    func makeCatalogViewController(categoryRepository: CategoryRepository, frameRepository: FrameRepository) -> UIViewController {
+        let vm = CatalogViewModel(categoryRepository: categoryRepository, frameRepository: frameRepository)
         
         return CatalogViewController(viewModel: vm)
     }

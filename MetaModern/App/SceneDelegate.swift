@@ -22,8 +22,9 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         navigationController.isNavigationBarHidden = true
         let appFactory = AppFactory()
         let categoryRepository = CategoryRepositoryImp()
+        let frameRepository = FrameRepositoryImp()
         
-        appCoordinator = AppCoordinator(navigationController: navigationController, categoryRepository: categoryRepository, factory: appFactory, window: window)
+        appCoordinator = AppCoordinator(navigationController: navigationController, categoryRepository: categoryRepository, frameRepository: frameRepository, factory: appFactory, window: window)
         appCoordinator?.start()
     }
 
