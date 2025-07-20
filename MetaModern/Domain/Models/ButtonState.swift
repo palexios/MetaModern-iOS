@@ -10,4 +10,8 @@ import Foundation
 enum ButtonState {
     case on
     case off
+    
+    var isActive: Bool {
+        self == .on
+    }
 }
