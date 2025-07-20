@@ -35,13 +35,26 @@ final class CategoryRepositoryImp: CategoryRepository {
     }
     
     /// Fetches all categories from Realm Database
-    func fetchAll() -> AnyPublisher<[Category], Never> {
+    func fetchAll(isFavourite: Bool) -> AnyPublisher<[Category], Never> {
         Future<[Category], Never> { promise in
             DispatchQueue.global(qos: .userInitiated).async {
                 do {
                     let realm = try Realm()
-                    let entityObjects = Array(realm.objects(CategoryEntity.self))
-                    let objects = entityObjects.map { $0.toDomain() }
+                    var entityObjects = Array(realm.objects(CategoryEntity.self))
+                    
+                    if isFavourite {
+                        entityObjects = entityObjects.filter {$0.frames.contains(where: {$0.isFavourite})}
+                    }
+                    
+                    var objects = entityObjects.map { $0.toDomain() }
+                    
+                    if isFavourite {
+                        objects = objects.map { category in
+                            let frames = category.frames.filter { $0.isFavourite }
+                            
+                            return Category(id: category.id, name: category.name, frames: frames)
+                        }
+                    }
                     
                     DispatchQueue.main.async {
                         promise(.success(objects))
@@ -60,7 +73,7 @@ final class CategoryRepositoryImp: CategoryRepository {
     }
     
     /// Fetches all categories with filtred frames based on the searched text and search type
-    func fetch(text: String, searchType: SearchType? = nil) -> AnyPublisher<[Category], Never> {
+    func fetch(text: String, isFavourite: Bool, searchType: SearchType? = nil) -> AnyPublisher<[Category], Never> {
         
         // CategoryEntity-level filters
         let categoryAuthorFilter: (CategoryEntity) -> Bool = {
@@ -68,7 +81,7 @@ final class CategoryRepositoryImp: CategoryRepository {
         }
         
         let categoryFrameNameFilter: (CategoryEntity) -> Bool = {
-            $0.frames.contains(where: { $0.name.lowercased() == text})
+            $0.frames.contains(where: { $0.name.lowercased().contains(text)})
         }
         
         let categoryCardNameFilter: (CategoryEntity) -> Bool = {
@@ -90,6 +103,10 @@ final class CategoryRepositoryImp: CategoryRepository {
         
         let frameCardNameFilter: (Frame) -> Bool = {
             $0.cards.contains(where: {$0.name.lowercased().contains(text)})
+        }
+        
+        let frameIsFavouriteFilter: (Frame) -> Bool = {
+            $0.isFavourite
         }
         
         let frameCombinedFilter: (Frame) -> Bool = { frame in
@@ -142,6 +159,15 @@ final class CategoryRepositoryImp: CategoryRepository {
                     } else {
                         categories = categories.map { category in
                             let frames = category.frames.filter(frameCombinedFilter)
+                            
+                            return Category(id: category.id, name: category.name, frames: frames)
+                        }
+                    }
+                    
+                    // Applying IsFavouriteFilter
+                    if isFavourite {
+                        categories = categories.map { category in
+                            let frames = category.frames.filter(frameIsFavouriteFilter)
                             
                             return Category(id: category.id, name: category.name, frames: frames)
                         }
