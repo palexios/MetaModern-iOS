@@ -50,6 +50,10 @@ final class SecondaryHeaderView: UIView {
     }
     
     // MARK: - Methods
+    func setTitle(_ text: String?) {
+        self.titleLabel.text = text
+    }
+    
     func appendViewToButtonsStackView(_ view: UIView) {
         self.horizontalButtonsStackView.addArrangedSubview(view)
         view.translatesAutoresizingMaskIntoConstraints = false
@@ -61,7 +65,6 @@ final class SecondaryHeaderView: UIView {
     // MARK: - Private Methods
     private func configure() {
         self.backgroundColor = UIColor.DS.Background.secondary
-        titleLabel.text = L10n.Catalog.headerViewTitle
     }
 }
 
