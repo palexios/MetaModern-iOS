@@ -19,4 +19,9 @@ class BaseViewController: UIViewController {
     private func configure() {
         self.view.backgroundColor = UIColor.DS.Background.primary
     }
+    
+    // MARK: - @OBJC METHODS
+    @objc func baseEndEditing() {
+        self.view.endEditing(true)
+    }
 }
