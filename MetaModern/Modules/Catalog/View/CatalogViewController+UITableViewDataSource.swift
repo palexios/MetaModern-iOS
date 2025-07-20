@@ -21,10 +21,18 @@ extension CatalogViewController: UITableViewDataSource {
         guard let cell = tableView.dequeueReusableCell(withIdentifier: "CatalogTableViewCell", for: indexPath) as? CatalogTableViewCell else { return UITableViewCell() }
         cell.separatorInset = .zero
         
-        let frame = self.viewModel.categories[indexPath.section].frames[indexPath.row]
-        cell.setup(frame)
+        let viewModel = self.viewModel.getFrameViewModel(indexPath: indexPath)
+        cell.viewModel = viewModel
+        
+        cell.viewModel?.subscription = viewModel.heartImageViewTappedSubject
+            .sink { value in
+                self.viewModel.cellTapped(indexPath: indexPath)
+            }
+        
+        cell.setup()
         
         return cell
     }
     
 }
+
