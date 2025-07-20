@@ -14,5 +14,6 @@ extension DSLayout {
         static let switchButtonHeightRatio: CGFloat = 0.5
         static let searchButtonWidthRatio: CGFloat = 0.6
         static let seatchButtonHeightRatio: CGFloat = 0.5
+        static let emptyLabelWidthRatio: CGFloat = 0.65
     }
 }
