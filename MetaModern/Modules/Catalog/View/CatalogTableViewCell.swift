@@ -9,6 +9,9 @@ import UIKit
 
 // MARK: - CatalogTableViewCell
 final class CatalogTableViewCell: UITableViewCell {
+    // MARK: - PROPERTIES
+    var viewModel: CatalogCellViewModel?
+    
     // MARK: - GUI
     private let horizontalStackView: UIStackView = {
         let stackView = UIStackView()
@@ -44,6 +47,7 @@ final class CatalogTableViewCell: UITableViewCell {
     private let heartImageView = UIImageView()
     
     // MARK: - INIT
+    
     override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
         super.init(style: style, reuseIdentifier: reuseIdentifier)
         
@@ -53,6 +57,7 @@ final class CatalogTableViewCell: UITableViewCell {
         configureTitleLabelLayout()
         configureAuthorLabelLayout()
         configureHeartImageViewLayout()
+        setupTGR()
     }
     @available(*, unavailable)
     required init?(coder: NSCoder) {
@@ -60,17 +65,29 @@ final class CatalogTableViewCell: UITableViewCell {
     }
     
     // MARK: - METHODS
-    func setup(_ frame: Frame) {
-        self.titleLabel.text = frame.name
-        self.authorLabel.text = frame.author
+    func setup() {
+        guard let viewModel else { return }
+        titleLabel.text = viewModel.frame.name
+        self.authorLabel.text = viewModel.frame.author
         
-        let image = frame.isFavourite ? UIImage.DS.Buttons.heartOn : UIImage.DS.Buttons.heartOff
+        let image = viewModel.frame.isFavourite ? UIImage.DS.Buttons.heartOn : UIImage.DS.Buttons.heartOff
         self.heartImageView.image = image
     }
     
     // MARK: - PRIVATE METHODS
     private func configure() {
         self.backgroundView?.backgroundColor = UIColor.DS.Background.white
+    }
+    
+    private func setupTGR() {
+        let tgr = UITapGestureRecognizer(target: self, action: #selector(heartImageViewTapped))
+        self.heartImageView.isUserInteractionEnabled = true
+        self.heartImageView.addGestureRecognizer(tgr)
+    }
+    
+    // MARK: - @OBJC PRIVATE METHODS
+    @objc private func heartImageViewTapped() {
+        self.viewModel?.heartImageViewTapped()
     }
 }
 
