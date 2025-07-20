@@ -1952,17 +1952,33 @@ internal enum L10n {
   internal enum Catalog {
     /// Отмена
     internal static let alertControllerCancelActionTitle = L10n.tr("Catalog", "alertControllerCancelActionTitle", fallback: "Отмена")
-    /// Введите имя автора, название рамки или карточки
-    internal static let alertControllerMessage = L10n.tr("Catalog", "alertControllerMessage", fallback: "Введите имя автора, название рамки или карточки")
     /// Поиск
     internal static let alertControllerSearchActionTitle = L10n.tr("Catalog", "alertControllerSearchActionTitle", fallback: "Поиск")
     /// Поиск
     internal static let alertControllerTitle = L10n.tr("Catalog", "alertControllerTitle", fallback: "Поиск")
+    /// Сбросить результаты
+    internal static let backButtonResetState = L10n.tr("Catalog", "backButtonResetState", fallback: "Сбросить результаты")
+    /// В каталог
+    internal static let backButtonToCatalogState = L10n.tr("Catalog", "backButtonToCatalogState", fallback: "В каталог")
+    /// В избранные рамки
+    internal static let backButtonToFavouritesState = L10n.tr("Catalog", "backButtonToFavouritesState", fallback: "В избранные рамки")
+    /// Ничего не найдено
+    internal static let emptyLabelCatalogTitle = L10n.tr("Catalog", "emptyLabelCatalogTitle", fallback: "Ничего не найдено")
+    /// Вы не добавили ни одну рамку в Избранные
+    internal static let emptyLabelFavouritesTitle = L10n.tr("Catalog", "emptyLabelFavouritesTitle", fallback: "Вы не добавили ни одну рамку в Избранные")
+    /// Каталог
+    internal static let headerTitleStateCatalog = L10n.tr("Catalog", "headerTitleStateCatalog", fallback: "Каталог")
+    /// Избранные
+    internal static let headerTitleStateFavourites = L10n.tr("Catalog", "headerTitleStateFavourites", fallback: "Избранные")
+    /// Поиск
+    internal static let headerTitleStateSearch = L10n.tr("Catalog", "headerTitleStateSearch", fallback: "Поиск")
     /// Catalog.strings
     ///   MetaModern
     /// 
     ///   Created by Александр Павлицкий on 22.06.2025.
     internal static let headerViewTitle = L10n.tr("Catalog", "headerViewTitle", fallback: "Каталог")
+    /// Введите слово
+    internal static let textFieldPlaceholder = L10n.tr("Catalog", "textFieldPlaceholder", fallback: "Введите слово")
   }
   internal enum Category {
     /// 1. Коучинг
