@@ -9,6 +9,7 @@ import Foundation
 import Combine
 
 protocol CategoryRepository {
-    func fetchAll() -> AnyPublisher<[Category], Never>
+    func fetch(text: String, isFavourite: Bool, searchType: SearchType?) -> AnyPublisher<[Category], Never>
+    func fetchAll(isFavourite: Bool) -> AnyPublisher<[Category], Never>
     func create(categories: [Category]) -> AnyPublisher<Void, Error>
 }
